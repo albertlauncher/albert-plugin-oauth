@@ -1,0 +1,7 @@
+{
+  "authors": ["@manuelschneid3r"],
+  "description": "Utility for plugins that utilize OAuth.",
+  "license": "MIT",
+  "name": "OAuth",
+  "url": "https://github.com/albertlauncher/albert-plugin-oauth"
+}
